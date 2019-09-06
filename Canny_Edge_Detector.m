@@ -1,0 +1,11 @@
+Get_Mag_and_Dir
+Non_Maximum_Supp
+grassfire_algo
+figure(1)
+imshow(uint8(img));
+figure(2)
+imshow(uint8(mag));
+figure(3);
+imshow(uint8(temp));
+figure(4);
+imshow(uint8(result));
